@@ -1,0 +1,4 @@
+2017-12-11--10-04-00: Starting new game.
+2017-12-11--10-04-00: Started Security Guard: SecurityGuard-frack
+2017-12-11--10-04-00: Started Security Guard: SecurityGuard-frick
+2017-12-11--10-04-04: Total time in game: 0.007347364

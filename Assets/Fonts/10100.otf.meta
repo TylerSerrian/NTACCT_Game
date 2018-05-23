@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 170b6187f1b740f46a92cd338c06e159
+timeCreated: 1509942557
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pepsi Cyr-Lat
+  fontNames:
+  - Pepsi Cyr-Lat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
